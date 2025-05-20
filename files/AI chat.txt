@@ -1,0 +1,40 @@
+User: Hi
+AI: Hello! How can I assist you today?
+User: I will ask you some questions. you have to answer them shortly.
+AI: Got it! Short answers coming your way. Ask away!
+User: What is an operating system?
+AI: Software that manages computer hardware and software resources.
+User: What are the main functions of an OS?
+AI: Manages hardware, Runs apps, Handles memory, Controls files, Provides UI
+User: What is a process?
+AI: A running program.
+User: What is a thread?
+AI: A lightweight sub-process (part of a process).
+User: What is the difference between a process and a thread?
+AI: Process: Independent, has its own memory. Thread: Runs inside a process, shares memory.
+User: What is a system call?
+AI: A request from software to the OS for a service.
+User: What is virtual memory?
+AI: An illusion of more RAM using disk space.
+User: What is paging?
+AI: Dividing memory into fixed-size blocks (pages).
+User: What is a page table?
+AI: Maps virtual pages to physical frames.
+User: What is context switching?
+AI: Saving/restoring process state to switch tasks.
+User: What are the different states of a process?
+AI: New, Ready, Running, Waiting, Terminated.
+User: What is a process control block (PCB)?
+AI: Data structure storing process info (state, registers, PID, etc.).
+User: What are preemptive and non-preemptive scheduling?
+AI: Preemptive: OS can interrupt tasks (e.g., Round Robin). Non-preemptive: Tasks run until completion (e.g., FCFS).
+User: What is a deadlock?
+AI: A deadlock is a situation where two or more processes are unable to proceed because each is waiting for the other to release a resource.
+User: What is a file system?
+AI: A file system organizes data on storage (disks, SSDs) into files/folders, managing access, naming, and storage space.
+User: Name three common operating systems used on personal computers.
+AI: Windows, macOS, Linux.
+User: What is a shell in an operating system?
+AI:A shell is a command-line interface (CLI) or graphical user interface (GUI) that lets users interact with the OS by executing commands, managing files, and running programs.
+User: What is the difference between a 32-bit and a 64-bit operating system?
+AI: A major difference between 32-bit processors and 64-bit processors is the number of calculations per second they can perform, which affects the speed at which they can complete tasks
